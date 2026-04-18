@@ -2,8 +2,9 @@
 <h3 align="center">CS & IT Student | Java | Python | Web Development | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F700FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Anisha+Sahu;CS+%26+IT+Student;Java+%7C+Python+%7C+Web+Dev;AI+Enthusiast;Building+Cool+Projects+🚀" />
 </p>
+
 
 ---
 
@@ -105,16 +106,17 @@ I am passionate about building real-world applications and continuously improvin
 
 - 📧 Email: anisha.890sahu@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/anisha-sahu-444894310  
-- 🌐 Portfolio: https://your-portfolio-link.com  
+- 🌐 Portfolio: 
 
 ---
-
 ## ✨ Fun Fact
 
-I enjoy turning simple ideas into real working applications and learning new technologies step by step.
+> I enjoy turning simple ideas into real working applications and continuously improving my skills.
 
 ---
 
 ## 💬 Quote
 
-> "Keep learning, keep building, and keep growing."
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=00C6FF&center=true&vCenter=true&width=600&lines=Keep+learning%2C+keep+building%2C+keep+growing;Consistency+is+the+key+to+success;Build+projects+that+solve+real+problems" />
+</p>
