@@ -65,11 +65,11 @@ I am passionate about building real-world applications and continuously improvin
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=anishasahu&show_icons=true&theme=radical" alt="stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishasahu&layout=compact&theme=radical" alt="languages" />
 </p>
 
 ---
