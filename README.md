@@ -103,7 +103,7 @@ I am passionate about building real-world applications and continuously improvin
 
 ## 🤝 Connect With Me
 
-- 📧 Email: anisha.890sahu.gmail.com
+- 📧 Email: anisha.890sahu@gmail.com
 - 💼 LinkedIn: www.linkedin.com/in/anisha-sahu-444894310  
 - 🌐 Portfolio: https://your-portfolio-link.com  
 
