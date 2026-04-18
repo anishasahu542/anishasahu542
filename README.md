@@ -104,7 +104,8 @@ I am passionate about building real-world applications and continuously improvin
 ## 🤝 Connect With Me
 
 - 📧 Email: 2401030062@cgu-odisha.ac.in  
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN  
+- 💼 LinkedIn: www.linkedin.com/in/
+anisha-sahu-444894310  
 - 🌐 Portfolio: https://your-portfolio-link.com  
 
 ---
